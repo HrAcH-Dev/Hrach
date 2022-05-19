@@ -1,1 +1,1 @@
-node
+document.body.innerHTML = "hello from JS";

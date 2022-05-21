@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HrAcH-Dev/Hrach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HrAcH-Dev/Hrach/issues"
+  },
+  "homepage": "https://github.com/HrAcH-Dev/Hrach#readme"
+}
